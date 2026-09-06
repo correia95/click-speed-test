@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://click-speed-test.correia95.workers.dev/sitemap.xml
